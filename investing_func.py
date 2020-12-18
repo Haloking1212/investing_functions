@@ -19,3 +19,5 @@ third_number - how many shares you want to purchase
 fourth_number - what price you want to buy the shares at.
 """
 print(avg_share_cost(4217, 1000, 2000, 3.8))
+
+
