@@ -20,7 +20,7 @@ third_number - how many shares you want to purchase
 fourth_number - what price you want to buy the shares at.
 """
 
-print(avg_share_cost(5826.82, 1001, 1000, 5.56))
+print(avg_share_cost(6304.77, 1101, 2000, 4.66))
 
 
 ##################################################################################################
